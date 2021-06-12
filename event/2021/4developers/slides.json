@@ -13,7 +13,7 @@
     "jloads/future/index.md",
     "event/2021/4developers/end.md"
   ],
-  "output": "./event/2021/4developers/index.html",
+  "output": "event/2021/4developers/index.html",
   "title": "jLoads - JavaScript media loader and router",
   "template": {
     "page": {
