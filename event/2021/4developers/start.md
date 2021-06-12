@@ -27,6 +27,9 @@ Za możliwość wzięcia udziału w 4Developers!
 
 [comment]: <> (6. o współpracy/wsparciu)
 
+
+
+
 TODO:
 
 + automatyzacja
